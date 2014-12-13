@@ -1,0 +1,2 @@
+pollo;patatas*1*0*true;jejeje
+atun;ajo*0*2*false;jajaja
